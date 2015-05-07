@@ -1,5 +1,9 @@
 terraform Cookbook CHANGELOG
 ============================
+0.1.2
+-----
+- Update to Terraform 0.4.2 (@rhuyerman) 
+
 
 0.1.1
 -----
@@ -10,3 +14,4 @@ terraform Cookbook CHANGELOG
 0.1.0
 -----
 - Initial release.
+
